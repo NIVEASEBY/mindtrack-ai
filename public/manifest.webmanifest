@@ -1,0 +1,12 @@
+{
+  "name": "MindTrack AI",
+  "short_name": "MindTrack",
+  "description": "Predict burnout before it affects your studies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAF7",
+  "theme_color": "#2A9D8F",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}
