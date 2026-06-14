@@ -16,6 +16,7 @@ export default defineConfig({
       routesDirectory: "../lib/routes",
     },
   },
+  nitro: true,
   vite: {
     resolve: {
       alias: {
